@@ -1,0 +1,94 @@
+h1 {
+  font-size: 20px;
+}
+
+ header h1 {
+  display: inline-block;
+  padding-top: 15px;
+  padding-left: 15px;
+  font-weight: bold;
+ }
+
+ header button {
+   display: inline-block;
+   float: right;
+   padding-top: 17px;
+   padding-right: 15px;
+   font-size: 13px;
+   background: green;
+   font-weight: bold;
+   text-decoration: underline;
+ }
+
+header {
+  background-color: black;
+  color: white;
+  height: 90px;
+}
+
+nav {
+  background-color: darkblue;
+  color: white;
+  height: 50px;
+  padding-top: 17px;
+}
+
+nav li {
+  display: inline-block;
+}
+
+.first-text {
+  display: inline-block;
+  color: white;
+  margin-left: 250px;
+}
+
+.menu-text {
+  display: inline-block;
+  color: white;
+  margin-left: 300px;
+}
+
+.museum {
+  display: inline-block;
+  height: 450px;
+  width: 100%;
+}
+
+div section {
+  display: inline-block;
+  color: black;
+}
+
+.first {
+  display: inline-block;
+  color: black;
+  margin-left: 220px;
+}
+
+.others {
+  display: inline-block;
+  color: black;
+  margin-left: 250px;
+}
+
+.text-box {
+  display: inline-block;
+  background-color: black;
+  color: white;
+  padding-top: 15px;
+}
+
+#others-text {
+  display: inline-block;
+  margin-top: 30px;
+}
+
+.other-pics {
+  display: inline-block;
+
+}
+
+#pics-a {
+  margin-left: 90px;
+}
